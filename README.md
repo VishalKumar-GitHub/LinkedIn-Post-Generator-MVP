@@ -37,7 +37,7 @@ User accounts and login functionality
 Analytics or performance tracking
 Persistent storage of post history or drafts
 
-5. Key Features
+# 5. Key Features
 Feature
 Description
 Prompt/Keyword Input
@@ -57,7 +57,7 @@ Auto-generated based on post content
 Export
 Copy to clipboard, export as plain text
 
-6. Target Users
+# 6. Target Users
 User Type
 Primary Goals
 Individual Professionals
@@ -83,9 +83,9 @@ Position themselves in competitive job markets
 
 
 
-7. Technology Stack
+# 7. Technology Stack
 
-8. User Flow / Wireframes
+# 8. User Flow / Wireframes
 User Journey:
 Open app in browser
 Input a topic, keyword, or choose a template
@@ -99,7 +99,7 @@ Settings section for tone and style
 View variations + hashtag suggestions
 Export buttons (Copy / Download)
 
-9. Core Functionality
+# 9. Core Functionality
 The core functionality of the LinkedIn Post Generator centers around transforming minimal user input into high-quality, platform-ready LinkedIn content. The system is designed for simplicity, responsiveness, and adaptability. Key functionality area include:
 
 Functionality Area
@@ -117,7 +117,7 @@ Displays real-time previews of the post with inline editing capabilities.
 Export and Copy Options
 Enables users to copy content instantly or download it as plain or formatted text.
 
-10. Modules
+# 10. Modules
 Module
 Description
 Input Module
@@ -131,25 +131,20 @@ Renders the generated content for live preview and allows copying or downloading
 UI Layer
 Manages user interactions, input controls, and visual display of the generated content.
 
-11. APIs / Backend Logic
+# 11. APIs / Backend Logic
 
 
-12. Frontend Design
+# 12. Frontend Design
 
-13. Data Flow and Architecture
+# 13. Data Flow and Architecture
 
 # System Architecture
 Browser (React) → REST API (FastAPI) → Local/Hosted LLM (Streamlit) → Post-Processing → Response
 Client-Server Model
-
-
 Stateless API
-
-
 LLM hosted via microservice or external inference API 
-
-
 No persistent data storage in MVP
+
 # 14. Limitations and Assumptions
 
 # Limitations
