@@ -32,8 +32,14 @@ Consistency and Branding: Customize tone and style to match your personal or pro
 
 Empower Everyone: Make personal branding accessible even for non-writers and early-career professionals.
 
+--
+--
+--
+--
+--
 
-# Limitations and Assumptions
+
+# 13.Limitations and Assumptions
 
 ## Limitations
 
@@ -54,7 +60,7 @@ Open-source LLM runs in an accessible environment
 
 MVP usage is light and doesn’t require scaling (yet)
 
-# Future Scope
+# 14. Future Scope
 LinkedIn API integration for direct posting
 
 User Accounts: Save templates, history
@@ -65,7 +71,7 @@ Cross-platform support (X, Instagram, Medium…etc)
 
 Advanced editing (grammar check, image suggestions)
 
-# Appendix / References
+# 15. Appendix / References
     
 HuggingFace Transformers. (n.d.). HuggingFace. Available at: https://huggingface.co/models
 
