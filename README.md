@@ -39,7 +39,7 @@ Empower Everyone: Make personal branding accessible even for non-writers and ear
 --
 
 
-# 13.Limitations and Assumptions
+# 13. Limitations and Assumptions
 
 ## Limitations
 
