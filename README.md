@@ -34,7 +34,7 @@ Empower Everyone: Make personal branding accessible even for non-writers and ear
 
 # Limitations and Assumptions
 
-# Limitations
+## Limitations
 
 No real-time LinkedIn integration in MVP
 
@@ -46,7 +46,7 @@ Performance may vary based on LLM latency
 
 May not support niche domains (e.g., scientific writing)
 
-# Assumptions
+## Assumptions
 Assumes prompt quality affects generation output (Users provide adequate input )
 
 Open-source LLM runs in an accessible environment
