@@ -23,6 +23,7 @@ The MVP focuses on speed, ease of use, and flexibility, making professional cont
 
 # 3. Purpose
 The LinkedIn Post Generator simplifies content creation, helping professionals publish high-quality posts effortlessly. It removes the friction of staying consistent on LinkedIn by offering smart, ready-to-use content tailored to the user’s voice and goals.
+
 Alleviate Content Fatigue: Professionals often struggle with consistently posting content.
 
 Save Time: Reduces the cognitive and time load of content writing.
